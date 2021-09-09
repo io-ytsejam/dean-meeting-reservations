@@ -1,3 +1,5 @@
-[![Build Status](https://dev.azure.com/uni-projects-2021/Team%20project/_apis/build/status/io-ytsejam.dean-meeting-reservations?branchName=main)](https://dev.azure.com/uni-projects-2021/Team%20project/_build/latest?definitionId=6&branchName=main)
-
 # dean-meetings-reservations
+It is a simple service for deans working in university and their students. With DMR students can create request appointments with deans for a given date. If the requested date doesn’t fit the dean, it can be negotiated from the dean's dashboard and accepted/rejected directly from email on the student side.
+
+Created by 4 members agile team for university classes. 
+Created with React + TypeScript, Java + Spring + SendGrid, Docker
